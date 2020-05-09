@@ -1,0 +1,2 @@
+# typora
+typora_image
